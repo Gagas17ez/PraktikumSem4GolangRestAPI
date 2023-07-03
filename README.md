@@ -1,2 +1,2 @@
 # PraktikumSem4GolangRestAPI
-Tugas Praktikum Backend RestAPI menggunakan Go
+Tugas Praktikum Semester 4 membuat Backend RestAPI menggunakan Go
